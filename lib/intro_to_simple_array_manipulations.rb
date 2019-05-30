@@ -19,4 +19,10 @@ def using_shift(arr)
   arr.shift
 end
 
-def using
+def shift_with_args(arr)
+  2.times { arr.shift }
+end
+
+def using_concat(arr_1, arr_2)
+  
+end
